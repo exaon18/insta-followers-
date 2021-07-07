@@ -6,6 +6,7 @@
 # YOUTUBE: @EXAONTECH
 
 trap 'printf "\n";stop;exit 1' 2
+
 ☆♤☆♤☆♤☆ BOT STARTING... ☆♤☆♤☆♤☆♡☆♤☆♤☆♤
 ##################################################
 ## Your Credentials here
@@ -45,8 +46,8 @@ banner() {
 printf "\e[1;92m    
 █▀▀ ▀▄▀ ▄▀█ █▀█ █▄░█   █ █▄░█ █▀ ▀█▀ ▄▀█
 ██▄ █░█ █▀█ █▄█ █░▀█   █ █░▀█ ▄█ ░█░ █▀█                         \e[0m\n"
-printf "\e[1;92m  starting 1 ....                    \e[0m\n"                                                           \e[0m\n"
-printf "\e[1;92m       remeber to put hastags by creating new file                        \e[0m\n"
+printf "\e[1;92m  starting 1 ....                    \e[0m\n"                                                           
+printf "\e[1;92m       remeber to put hastags by creating new file                       \e[0m\n"
 printf "\e[1;92m     runing....                           \e[0m\n"
                             
 printf "\n"
