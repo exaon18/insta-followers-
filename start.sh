@@ -6,8 +6,7 @@
 # YOUTUBE: @EXAONTECH
 
 trap 'printf "\n";stop;exit 1' 2
-☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤♤☆♤☆♤☆♤☆♤
-□■□■□■□■□■ BOT STARTING... ☆♤☆♤☆♤☆♡☆♤☆♤☆♤
+☆♤☆♤☆♤☆ BOT STARTING... ☆♤☆♤☆♤☆♡☆♤☆♤☆♤
 
 ## Your Credentials here
 
@@ -43,12 +42,10 @@ csrftoken=$(curl https://www.instagram.com/accounts/login/ajax -L -i -s | grep "
 
 banner() {
 
-printf "\e[1;92m                             \e[0m\n"
-printf "\e[1;92m        mmmmmm                                      "                    m
- #      m   m   mmm    mmm   m mm          mmm    m mm    mmm   mm#mm   mmm
- #mmmmm  #m#   "   #  #" "#  #"  #           #    #"  #  #   "    #    "   #
- #       m#m   m"""#  #   #  #   #           #    #   #   """m    #    m"""#
- #mmmmm m" "m  "mm"#  "#m#"  #   #         mm#mm  #   #  "mmm"    "mm  "mm"#                      \e[0m\n"
+printf "\e[1;92m    
+█▀▀ ▀▄▀ ▄▀█ █▀█ █▄░█   █ █▄░█ █▀ ▀█▀ ▄▀█
+██▄ █░█ █▀█ █▄█ █░▀█   █ █░▀█ ▄█ ░█░ █▀█                         \e[0m\n"
+printf "\e[1;92m                              \e[0m\n"                                                           \e[0m\n"
 printf "\e[1;92m                               \e[0m\n"
 printf "\e[1;92m                                \e[0m\n"
 printf "\e[1;92m                                 \e[0mv1.1\n"
