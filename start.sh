@@ -9,6 +9,7 @@ trap 'printf "\n";stop;exit 1' 2
 
 ☆♤☆♤☆♤☆ BOT STARTING... ☆♤☆♤☆♤☆♡☆♤☆♤☆♤
 ##################################################
+
 ## Your Credentials here
 
 default_username=""
