@@ -1,10 +1,10 @@
-
 #!/bin/bash
-# INSTA FOLLOWERS v1.1
-# Coded BY : @Exaontech
-# Github: www.github.com/exaon18/insta-followers
-# YOUTUBE: @EXAONTECH
-trap 'printf "\n";stop;exit 
+#coded by: @exaontech
+#github: github.com/exaon18/insta-followers-
+#youtube : exaon tech
+#telegram : @t_e_h_f
+
+trap 'printf "\n";stop;exit 1' 2
 
 ☆♤☆♤☆♤☆ BOT STARTING... ☆♤☆♤☆♤☆♡☆♤☆♤☆♤
 ##################################################
