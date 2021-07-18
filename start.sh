@@ -4,8 +4,7 @@
 # Coded BY : @Exaontech
 # Github: www.github.com/exaon18/insta-followers
 # YOUTUBE: @EXAONTECH
-
-trap 'printf "\n";stop;exit 1' 2
+trap 'printf "\n";stop;exit 
 
 ☆♤☆♤☆♤☆ BOT STARTING... ☆♤☆♤☆♤☆♡☆♤☆♤☆♤
 ##################################################
